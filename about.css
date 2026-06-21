@@ -1,0 +1,45 @@
+.dd{
+      background:
+linear-gradient(135deg,#020617,#0f172a,#001f54);
+color:white;
+font-family: Arial;
+}
+.tt{
+    margin-left: 650px;
+    color: #f7e7b4;
+    font-size: 38px;
+}
+.ff{
+    border-radius: 20px;
+    border: 2px solid white;
+    height: 300px;
+    width: 250px;
+    margin-left: 90px;
+    margin-top: 40px;
+}
+.yt{
+    margin-top: 50px;
+}
+.qq{
+    text-align: center;
+    margin-top: -300px;
+    margin-left: 150px;
+    color: white;
+    font-size: 20px;
+    display: block;
+    
+
+}
+.hg{
+    width: 60px;
+    height: 50px;
+    margin-left: 620px;
+      border: 3px solid rgb(174, 238, 57);
+}
+.ww{
+    border: 3px solid rgb(174, 238, 57);
+    width: 60px;
+    height: 50px;
+    margin-left: 790px;
+    margin-top: -55px;
+}

@@ -1,0 +1,28 @@
+.gg{
+     background:
+linear-gradient(
+135deg,
+#000814,
+#001d3d,
+#001233
+);
+}
+.yu{
+    text-align: center;
+    color: white;
+    font-size: 29px;
+}
+.pp li{
+    color: yellow;
+    font-size: 35px;
+}
+.gf{
+      animation: colorChange 2s infinite;
+}
+@keyframes colorChange{
+    10%{color: red;}
+    50%{color: rgb(179, 255, 0);}
+    70%{color: yellow;}
+    100%{color: rgb(238, 237, 225);}
+}
+

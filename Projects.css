@@ -1,0 +1,30 @@
+body{
+background:
+linear-gradient(135deg,#020617,#0f172a,#001f54);
+color:white;
+font-family: Arial;
+}
+.ii{
+    text-align: center;
+}
+.yt{
+    font-size:25px;
+
+color:#60a5fa;
+
+}
+.ip{
+    height: 330px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:25px;
+
+border:4px solid #60a5fa;
+
+box-shadow:
+0 0 40px #2563eb;
+
+
+}
